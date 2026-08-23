@@ -135,29 +135,6 @@ The data preparation process involved:
 - Creating a separate working sheet for the cleaned data.
 - Preparing the data for Pivot Table analysis and visualization.
 
-## Project Structure
-
-```text
-Bike-Sales-Data-Analysis/
-│
-├── data/
-│   └── bike_buyers.csv
-│
-├── working_sheet/
-│   └── working_sheet.xlsx
-│
-├── pivot_table/
-│   └── pivot_table.xlsx
-│
-├── dashboard/
-│   └── bike_sales_dashboard.xlsx
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
-```
-
 ## Skills Demonstrated
 
 - Data Cleaning
